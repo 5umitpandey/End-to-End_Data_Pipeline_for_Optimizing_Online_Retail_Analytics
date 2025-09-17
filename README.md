@@ -250,7 +250,6 @@ The dashboard provides several key insights into the processed data:
    - Presents an overview of monthly sales, helping to identify trends and seasonality in sales performance.
 
 ### Dashboard Link
-[View Online Retail Data Report](https://lookerstudio.google.com/reporting/01e1481a-ff43-49fc-b04a-29bd75afd77d)
 
 ![Online Retail Analytics Dashboard](images/online_retail_analytics.png)
 
@@ -260,5 +259,3 @@ Feel free to explore the dashboard using the provided link to gain deeper insigh
 ## **CONCLUSION**
 
 By leveraging cloud services, IaC, workflow orchestration, and visualization tools, this project optimizes online retail analytics. It enables businesses to derive actionable insights from raw transactional data, facilitating informed decision-making, strategic planning, and enhanced customer experiences. The end-to-end data pipeline and analytics engineering solution demonstrate the poIr of modern data technologies in driving business growth and innovation.
-
-![](https://wallpaperaccess.com/full/1330717.jpg)
